@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Python coding projects
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Borrowers' Risk of Defaulting](https://github.com/KushalMohnot/Borrowers-Risk-of-Defaulting)
+This project is to prepare a report for a bank’s loan division. We need to find out if a customer’s marital status and number of children has an impact on whether they will default on a loan. The bank already has some data on customers’ credit worthiness.
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
