@@ -19,18 +19,11 @@ The task is to analyze data for telecom operator Megaline. The company offers it
 Analysis of video game market to find patterns that determine a video game's success.
 
 ---
-
----
 [Apartment adertisement insights](https://github.com/KushalMohnot/Real-estate-advertisment)
 
 Uses data from a real estate agency. It is an archive of sales ads for realty in St. Petersburg, Russia, and the surrounding areas collected over the past few years. I determine the market value of real estate properties and define the parameters that increaase or decrease the cost. This will make it possible to build an automated system that is capable of detecting anomalies and fraudulent activity.
 
 ---
----
 
-
-
-
----
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
